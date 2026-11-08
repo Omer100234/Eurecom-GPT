@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "omer.gabai45@gmail.com",
+    "project": "eurecom-gpt-513416",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.3, build 5457199",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/Omer100234/Eurecom-GPT.git",
+    "is_github": true,
+    "slug": "Omer100234/Eurecom-GPT"
+  }
+}

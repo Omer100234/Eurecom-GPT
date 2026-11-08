@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 258.243,
+    "vectorized_ms": 1.243,
+    "speedup": 207.76
+  },
+  "threads": {
+    "1": 2404.035,
+    "2": 2167.593,
+    "4": 2357.812,
+    "8": 2657.842
+  },
+  "devices": {
+    "cpu_ms": 459806.3,
+    "gpu_ms": 13500.8
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4441,
+    "param_count": 4935680
+  },
+  "sample": "\nAll nother gold the slain's no good whole will awd\nTo tuban, a gentleman, I my broke rother\nThat that Ange, sir. Let love thou did the lay,\nTo true think to the bell?\n\nSecond Messenger:\nOf Since Here ",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecom-gpt-513416-eurecomgpt/model.safetensors"
+  }
+}
